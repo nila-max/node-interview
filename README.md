@@ -5,7 +5,6 @@ yu![ElemeFE-background](assets/ElemeFE-background.png)
 * ## What's this?
 
 We were looking for senior backend developer with Node.js. And, this repo is the interview catalog (not just questions & answers) about it, and it shows you how to pass the Node.js interview of [ElemeFE](https://github.com/ElemeFE/).
-
 * ## Motivation
 
 We had a lot of interviews about Node.js & full-stack in 2016. We found there are many developers came from frontend, and most of them had leaky knowledge of backend system. Thus we found it's difficult to got senior Node.js developer about backend (not full-stack).
